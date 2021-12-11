@@ -16,6 +16,12 @@ public class Operators {
         System.out.println(a*=3);
         System.out.println(b/=3);
         System.out.println(a%=3);
-        
+        //comparison operator
+        System.out.println(a==b);
+        System.out.println(a<=b);
+        System.out.println(a>=b);
+        System.out.println(a<b);
+        System.out.println(a>b);
+        System.out.println(a!=b);
     }
 }
