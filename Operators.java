@@ -10,5 +10,12 @@ public class Operators {
         System.out.println(a%b);
         System.out.println(++a);
         System.out.println(--b);
+        //assignment operators
+        System.out.println(a+=3);
+        System.out.println(b-=3);
+        System.out.println(a*=3);
+        System.out.println(b/=3);
+        System.out.println(a%=3);
+        
     }
 }
